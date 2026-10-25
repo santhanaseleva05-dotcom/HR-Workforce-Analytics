@@ -41,7 +41,7 @@ The dashboard presents workforce metrics, employee distribution, turnover patter
 ## Data Source
 **HRDataset_v14** by Dr. Carla Patalano and Dr. Rich Huebner, obtained from Kaggle.
 
-The source dataset is subject to its original license. The dataset files are not included in this repository.
+The source dataset is subject to its original license. 
 
 ## Project Purpose
 This project demonstrates practical skills in SQL analysis, Excel data preparation, dimensional data modeling, and Power BI reporting for HR analytics.
