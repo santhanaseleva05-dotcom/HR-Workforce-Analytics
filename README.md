@@ -53,7 +53,7 @@ This project demonstrates practical skills in SQL analysis, Excel data preparati
 ![Workforce Overview](workforce-overview.png.png)
 
 ### Retention & Turnover
-![Retention & Turnover](rentention-turnover.png)
+![Retention & Turnover](rentention-turnover.png.png)
 
 ### Compensation & Performance
 ![Compensation & Performance](compensation-performance.png.png)
