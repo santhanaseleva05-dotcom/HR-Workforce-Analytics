@@ -45,3 +45,15 @@ The source dataset is subject to its original license.
 
 ## Project Purpose
 This project demonstrates practical skills in SQL analysis, Excel data preparation, dimensional data modeling, and Power BI reporting for HR analytics.
+
+
+## Power BI Dashboard Preview
+
+### Workforce Overview
+![Workforce Overview](workforce-overview.png.png)
+
+### Retention & Turnover
+![Retention & Turnover](rentention-turnover.png)
+
+### Compensation & Performance
+![Compensation & Performance](compensation-performance.png.png)
